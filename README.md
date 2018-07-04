@@ -37,6 +37,7 @@ npm run react-dev
 
 ## Development
 **in another terminal npm run** `server-dev`
+
 **in another terminal npm run** `react-dev` 
 
 ## Built With
