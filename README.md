@@ -52,7 +52,14 @@ npm run react-dev
 - The user can display in his/her profile all the products, not only the products he/she got.
 
  ## Authors
+ ### My Team members
  - [Abdulhameed](https://github.com/abdulhameed89) - Team Leader
  - [Abdullatif](https://github.com/AbdullatifJamous891) - Team Member
  - [Qays](https://github.com/QaysTrad) - Scrum Master
  - [Shatha](https://github.com/ShSukkar) - Product Owner
+ 
+ ### Members of the team that built the project from scratch
+- [Hanan](https://github.com/HananNouman)
+- [Lena](https://github.com/lenaSalamat)
+- [Waed](https://github.com/Waed93)
+- [Yussur](https://github.com/Yussur90)
